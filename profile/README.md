@@ -27,6 +27,6 @@ This project / organization has the following repos:
 - Freyr Weather App (The frontend application)
 - Toth Workflows (Central place for workflows)
 
-For more information, please go into the respective repository or read up on the whole project here: https://siri-freyr.xyz/about
+For more information, please go into the respective repository or get a brief overview over here: https://siri-freyr.xyz/about
 
 Thanks for the read!
