@@ -76,6 +76,8 @@ A centralized place for CI/CD workflows and operational tasks.
 ## Learn More
 For a short description into the project, head over to [About Siri's Project](https://siri-freyr.xyz/about).
 
+**Live App:** [siri-freyr.xyz](https://siri-freyr.xyz/)
+
 Thank you for stopping by!
 
 — Siri (The Programmer, not the Assistant)
