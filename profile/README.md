@@ -61,16 +61,16 @@ Designing engaging and responsive interfaces for a seamless user experience.
 ## Project Repositories
 Here's what each part of the project entails:
 
-### 🌍 [Kamui Terraform](https://github.com/username/kamui-terraform)
+### 🌍 [Kamui Terraform](https://github.com/siri-aws-web-app/kamui-terraform)
 Configuring and provisioning resources with Terraform to set up the infrastructure. (Used with Terragrunt)
 
-### 🌤 [Norns Weather Service](https://github.com/username/norns-weather-service)
+### 🌤 [Norns Weather Service](https://github.com/siri-aws-web-app/norns-weather-service)
 The backend service providing REST APIs for weather data written in Go.
 
-### ☀️ [Freyr Weather App](https://github.com/username/freyr-weather-app)
+### ☀️ [Freyr Weather App](https://github.com/siri-aws-web-app/freyr-weather-app)
 The frontend application that presents weather data in a user-friendly manner. Written in Svelte with Sveltekit.
 
-### 🔄 [Toth Workflows](https://github.com/username/toth-workflows)
+### 🔄 [Toth Workflows](https://github.com/siri-aws-web-app/toth-workflows)
 A centralized place for CI/CD workflows and operational tasks.
 
 ## Learn More
